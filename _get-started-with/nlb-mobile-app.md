@@ -133,6 +133,17 @@ title: NLB Mobile app
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div>
 
+<input id="acc7" type="checkbox">
+        <label for="acc7">How do I enable dark mode? </label>
+        <div class="new-accordion-content">
+      <p>You can select your preference under the More Tab -> Switch Theme. There are three options available for patrons to choose from. “Use Device’s Dark Mode Setting” is set by default.</p>   
+
+1.	If “Always Light” is selected, the app will be in light mode, regardless of the device settings.<br> 
+2.	If “Always Dark” is selected, the app will be in dark mode, regardless of the device’s settings    .
+
+<p>When “Use Device’s Dark Mode Setting” is selected, the theme of the app will follow the display setting set by you at the device level. This mode would also follow the schedule set for dark mode, if any. </p>
+</div>
+
 <p></p><h3>Learn about the Features</h3><p></p>
 
 <p>
